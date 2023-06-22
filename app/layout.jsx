@@ -1,5 +1,6 @@
 import '@styles/globals.css';
 import Provider from '@components/Providers';
+import Nav from '@components/Nav';
 
 export const metadata ={
     title: "Pokemon TGC",
