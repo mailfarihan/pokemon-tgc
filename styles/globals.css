@@ -99,7 +99,6 @@
 .cartSummary{
   background: linear-gradient(transparent 0%, white 35% );
   height: 20em;
-  bottom: 0;
 }
 
 .select_btn:hover{
