@@ -179,7 +179,7 @@ const Cart = (props) => {
 
   return (
     <div className='absolute flex z-80 h-screen w-screen bg-gray-200/70 top-0 left-0 justify-center backdrop-blur-sm'>
-      <div className='modal relative w-full h-full m-auto bg-white rounded-lg py-10 text-center justify-center sm:w-11/12 sm:h-5/6 sm:max-w-2xl' >
+      <div className='modal relative w-full h-full m-auto bg-white rounded-lg py-16 text-center justify-center sm:w-11/12 sm:h-5/6 sm:max-w-2xl' >
           <div className='itemContainer px-10 pb-12'>
             {isLoading ?
               (
